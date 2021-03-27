@@ -7,6 +7,6 @@ It provides LAN communication facilities between client and server.<br>
   <li><b>Future improvements</b> : building another GUI version of this program.<br></li>
 </ul>
 ## Server
-<img src="related-images/server.jpg" alt="Here suppose to be an image of server side." width="100" height="80">
+<img src="related-images/server.jpg" alt="Here suppose to be an image of server side." width="600" height="300">
 ## Client
-<img src="related-images/client.jpg" alt="Here suppose to be an image of client side." width="100" height="80">
+<img src="related-images/client.jpg" alt="Here suppose to be an image of client side." width="600" height="300">
