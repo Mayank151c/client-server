@@ -7,8 +7,8 @@ It provides LAN communication facilities between client and server.<br>
   <li><b>Future improvements</b> : building another GUI version of this program.<br></li>
 </ul><br>
 
-## Server
+## <object data="server.java" type="text/plain" width="500" style="height: 300px"><a href="server.java">Server</a></object>
 <img src="related-images/server.jpg" alt="Here suppose to be an image of server side." width="600" height="300"><br>
 
-## Client
+## <object data="client.java" type="text/plain" width="500" style="height: 300px"><a href="client.java">Client</a></object>
 <img src="related-images/client.jpg" alt="Here suppose to be an image of client side." width="600" height="300">
