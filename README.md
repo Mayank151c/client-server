@@ -6,4 +6,7 @@ It provides LAN communication facilities between client and server.<br>
   <li><b>Package</b>  : java.net,java.io<br></li>
   <li><b>Future improvements</b> : building another GUI version of this program.<br></li>
 </ul>
-<img src="related-images/server.jpg" alt="Here suppose demo image of server side.">
+## Server
+<img src="related-images/server.jpg" alt="Here suppose to be an image of server side." width="100" height="80">
+## Client
+<img src="related-images/client.jpg" alt="Here suppose to be an image of client side." width="100" height="80">
