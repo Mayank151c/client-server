@@ -8,7 +8,7 @@ It provides LAN communication facilities between client and server.<br>
 </ul><br>
 
 ## <object data="server.java" type="text/plain" width="500" style="height: 300px"><a href="server.java">Server</a></object>
-<img src="related-images/server.jpg" alt="Here suppose to be an image of server side." width="600" height="300"><br>
+This program needs to be run in order to run create client.
 
 ## <object data="client.java" type="text/plain" width="500" style="height: 300px"><a href="client.java">Client</a></object>
-<img src="related-images/client.jpg" alt="Here suppose to be an image of client side." width="600" height="300">
+Run after server is in running state.
